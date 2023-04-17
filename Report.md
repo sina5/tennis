@@ -120,6 +120,7 @@ Trained model weights saved to: checkpoint_722.pth
 ![Trained Model Scores](images/train_scores.png)
 
 Here is a video of untrained vs trained models:
+
 [![Watch the video](images/thumbnail.gif)](https://youtu.be/EXans1mpJBs)
 
 ## Future Work
